@@ -243,23 +243,23 @@ article#acervo-lista ul li {
 
 section#galeria-page {
     padding: 0 27px 0 27px;
-    border: 1px solid red;
+    
 }
 
 section#galeria-page a {
     display: block;
-    background: url(../img/fundo-foto-grande.png) no-repeat;
-    float: left;
+    background: url(../img/fundo-moldura.png) no-repeat center;
+    float: left center;
     padding: 17px 15px 17px 15px;
     margin: 10px 0 0 20px;
-    width: 550px;
-    height: 300px;
+    width: 530px;
+    height: 410px;
     border: 1px solid red;
 }
 
 section#galeria-page img {
-    margin-left: 2px;
-    margin-top: 3px;
+    margin-left: 105px;
+    margin-top: 9px;
 }
 
 
